@@ -2,6 +2,10 @@
 --- 
 The stock market offers immense potential for wealth generation but poses significant risks due to its volatile nature. Swing trading, a trading strategy focused on capturing short- to medium-term gains, provides an alternative to intraday trading. It involves holding positions for 3–7 days. This Project focuses on improving swing trading strategies using machine learning, specifically the K-Nearest Neighbors (KNN) algorithm.
 ---
+## Preview
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/5575c5be-a6a9-4dee-b5d6-52b2163cf9d6" />
+
+---
 ## Technologies Used
 - Python
 - Jupyter Notebook
